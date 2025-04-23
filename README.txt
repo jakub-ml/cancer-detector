@@ -1,2 +1,0 @@
-Zadaniem projektu jest stworzenie modelu detektora raka na podstawie danych w pliku csv oraz porównanie wyników różnych modeli.
-Model powiniem posiadać jak największą skuteczność na skosunkowo niewielkim zbiorze danych.
